@@ -2,10 +2,6 @@
 
 Aplikasi berbasis teks (CLI) menggunakan Java untuk mengelola sistem peminjaman buku di perpustakaan Institut Teknologi Del. Sistem ini dirancang dengan Layered Architecture (Arsitektur Berlapis) untuk mengimplementasikan 13 materi inti Object-Oriented Programming (OOP) dan Software Engineering, termasuk penerapan Inheritance, Abstract Class, Interface, hingga penanganan Exception.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Architecture](https://img.shields.io/badge/Architecture-Model__Driver-007396?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-
 > Sebuah aplikasi *Command Line Interface* (CLI) yang menyimulasikan sistem manajemen perpustakaan kampus IT Del dengan implementasi lengkap prinsip **Object-Oriented Programming (OOP)**.
 
 ---
