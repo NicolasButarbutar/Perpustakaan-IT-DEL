@@ -1,4 +1,4 @@
-# 📚 Sistem Perpustakaan Institut Teknologi Del (Full 13 Materi OOP)
+# 📚 Sistem Perpustakaan Institut Teknologi Del
 
 Aplikasi berbasis teks (CLI) menggunakan Java untuk mengelola sistem peminjaman buku di perpustakaan Institut Teknologi Del. Sistem ini dirancang dengan Layered Architecture (Arsitektur Berlapis) untuk mengimplementasikan 13 materi inti Object-Oriented Programming (OOP) dan Software Engineering, termasuk penerapan Inheritance, Abstract Class, Interface, hingga penanganan Exception.
 
